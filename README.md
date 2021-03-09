@@ -44,5 +44,3 @@ http://docs.fst1994.com/wm/demo/index.html
 ### 变量存放地址 
 
 + 拆条列表  VideoControl.vue中  cutCoverList数组中  单个拆条存储了开始时间，结束时间，时长间隔，left距离，拆条宽度等
-
-### author:QQ-780602604   Wechat：deng9466   email: pickeddeng@163.com
